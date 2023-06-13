@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a9abdc54.js",
-    "index.html": "/index.html",
-    "main.a9abdc54.js.map": "/static/js/main.a9abdc54.js.map"
+    "main.js": "/test-widget/static/js/main.a9abdc54.js",
+    "index.html": "/test-widget/index.html",
+    "main.a9abdc54.js.map": "/test-widget/static/js/main.a9abdc54.js.map"
   },
   "entrypoints": [
     "static/js/main.a9abdc54.js"
